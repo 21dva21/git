@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: black;
+}
+
+.header {
+  background-image: linear-gradient(rgb(18, 18, 18), black);
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  color: aliceblue;
+}
+
+.log {
+  color: green;
+}
+
+.block {
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  height: 70vh;
+  width: 30vw;
+  color: aliceblue;
+  background: rgba(33, 31, 31, 0.301);
+}
+
+#img {
+  height: 25vw;
+  width: 40vh;
+  display: flex;
+  justify-content: center;
+}/*# sourceMappingURL=styles.css.map */
